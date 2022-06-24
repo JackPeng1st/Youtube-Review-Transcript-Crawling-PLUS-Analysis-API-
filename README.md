@@ -1,4 +1,4 @@
-## The source of text documents, how do you get them：
+## The source of text documents：
   For Youtubers:  
     Users input an URL of YouTube to crawl the comments for analysis.
   For Viewers:  
