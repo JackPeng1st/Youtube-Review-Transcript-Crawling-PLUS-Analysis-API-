@@ -6,9 +6,9 @@
  
 ## The sequence of processing the text：
   Combined with DataBase (just the user in database can use this API service)
-  For Youtubers: 
-    Crawling review of video on YouTube. 
-    
+  For Youtubers:
+  
+    Crawling review of video on YouTube.
     The user inputs the URL of the certain video he/she wants to crawl.
     We use Regular Expression to make sure the input URL matches the YouTube URL. If the link isn’t a Youtube URL, it will output a json format to show failure.
     Doing some text mining analysis 
@@ -23,6 +23,7 @@
     Visualizing one Word Cloud for the positive and negative comments.
     return ratio of positive comments (json format)
   For Viewers:
+  
     Crawling Transcripts of video on YouTube. 
     The user inputs the keywords that he/she wants to crawl.
     After crawling, it will return a json to show the number of videos that crawled and the number of videos that have transcripts.  
