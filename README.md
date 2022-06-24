@@ -8,6 +8,7 @@
   Combined with DataBase (just the user in database can use this API service)
   For Youtubers: 
     Crawling review of video on YouTube. 
+    
     The user inputs the URL of the certain video he/she wants to crawl.
     We use Regular Expression to make sure the input URL matches the YouTube URL. If the link isn’t a Youtube URL, it will output a json format to show failure.
     Doing some text mining analysis 
