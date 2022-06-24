@@ -1,8 +1,8 @@
 ## The source of text documents, how do you get them：
-  For Youtubers: 
+  For Youtubers:  
     Users input an URL of YouTube to crawl the comments for analysis.
-  For Viewers:
-	  Users input a keyword to crawl the transcripts of videos on Youtube for analysis.
+  For Viewers:  
+  	Users input a keyword to crawl the transcripts of videos on Youtube for analysis.
  
 ## The sequence of processing the text：
   Combined with DataBase (just the user in database can use this API service)
